@@ -22,6 +22,7 @@
     "type": "git",
     "url": "https://github.com/Saraswat11/BDD_Protractor_FrameWork.git"
   },
+  "badges": [fdhsdkj],
   "scripts": {
     "test": "protractor JSFiles/configuration.js",
     "pretest": "tsc",
