@@ -22,7 +22,6 @@
     "type": "git",
     "url": "https://github.com/Saraswat11/BDD_Protractor_FrameWork.git"
   },
-  "engineStrict": '',
   "scripts": {
     "test": "protractor JSFiles/configuration.js",
     "pretest": "tsc",
